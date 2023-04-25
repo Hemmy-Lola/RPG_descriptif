@@ -21,7 +21,6 @@ loaded_data = load_data("benoit")
 print(loaded_data)
 # Output: {'name': 'John Smith', 'age': 35, 'is_employee': True}
 
-
 def nom_du_joueur():
   print("Comment t'appelles-tu jeune aventurier ?")
   a = str(input())
